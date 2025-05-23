@@ -1,0 +1,9 @@
+[submodule "SFND_Lidar_Obstacle_Detection"]
+	path = SFND_Lidar_Obstacle_Detection
+	url = https://github.com/krillavilla/SFND_Lidar_Obstacle_Detection.git
+[submodule "2D_Feature_Tracking"]
+	path = 2D_Feature_Tracking
+	url = https://github.com/krillavilla/2D_Feature_Tracking.git
+[submodule "SFND_3D_Object_Tracking"]
+	path = SFND_3D_Object_Tracking
+	url = https://github.com/krillavilla/SFND_3D_Object_Tracking.git
