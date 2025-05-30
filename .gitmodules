@@ -7,3 +7,9 @@
 [submodule "SFND_3D_Object_Tracking"]
 	path = SFND_3D_Object_Tracking
 	url = https://github.com/krillavilla/SFND_3D_Object_Tracking.git
+[submodule "SFND_Unscented_Kalman_Filter"]
+	path = SFND_Unscented_Kalman_Filter
+	url = https://github.com/krillavilla/SFND_Unscented_Kalman_Filter.git
+[submodule "SFND_Radar-Target-_Gen_Detect"]
+	path = SFND_Radar-Target-_Gen_Detect
+	url = https://github.com/krillavilla/SFND_Radar-Target-_Gen_Detect.git
